@@ -7,6 +7,7 @@ Created on Wed Jun 22 11:51:04 2022
 
 
 def crearDB():
+    # A simple comment preceding a simple print statement
     import argparse
     import os, sys
     sys.path.insert(0, os.path.abspath('..'))
