@@ -1,0 +1,7 @@
+VOLCAN NevChillan
+SITIOC ARAUCO
+FECHAI 2022-05-20
+FECHAF 2022-06-01
+ROOTCI //172.16.40.10/compartidaAnalistas/Analisis/FotografiasCamarasIP/ 
+PREFIX Datos_Fotos_
+PYOVLI //172.16.40.10/sismologia/pyovdas_lib/
